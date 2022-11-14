@@ -22,7 +22,7 @@ def calculate_dates(original_date, now):
 
 
 
-
+#--------------------------------------------------------------
 
 bd = get_user_birthday()
 now = datetime.datetime.now()
