@@ -7,7 +7,8 @@ def calculateAge(birthDate):
     age = today.year - birthDate.year -((today.month, today.day) < (birthDate.month, birthDate.day))
  
     return age
-     
+
+#Test----------
 
 re = calculateAge(date(year, month, day))
 
