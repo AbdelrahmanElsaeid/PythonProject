@@ -16,5 +16,5 @@ bottom = 3 * height / 4
 im1 = im.crop((left, top, right, bottom))
 newsize = (200, 200)
 im1 = im1.resize(newsize)
-# Shows the image in image viewer
+# Shows the image in image viewer ---------
 im1.show()
