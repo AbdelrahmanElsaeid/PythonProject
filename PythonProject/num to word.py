@@ -1,3 +1,4 @@
+# to install use the next line
 # pip install num2words
 
 from num2words import num2words
