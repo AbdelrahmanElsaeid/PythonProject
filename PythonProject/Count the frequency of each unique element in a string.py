@@ -14,3 +14,4 @@ str ='ahmed abdo Ali abdo abdo abdo ahmed mido mido mido'
 
 freq(str)
   
+#--------------------------------------------
