@@ -1,6 +1,5 @@
 import datetime
 
-
 def get_first_date():
     year = int(input('Enter Year ? [YY] '))
     month = int(input('Enter Month? [MM] '))
@@ -31,4 +30,4 @@ c = int(abs(calculate_dates(f,l)))
 print(c)
 
 
-#----------------------------------------------------
+#------------------------------------------------------------------------------
